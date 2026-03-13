@@ -1,6 +1,9 @@
 # VitalGuard AI
 AI-Powered Smart Hospital Infrastructure System
 
+
+![Logo of VitalGuard AI](/vitalguardlogo.png)
+
 ---
 
 ## Overview
@@ -69,7 +72,7 @@ This system uses modern cloud technologies:
 
 ## Architecture Diagram
 
-![Architecture Diagram](docs/architecture.png)
+[Architecture Diagram](/systemArchitecture.png)
 
 ---
 
@@ -83,11 +86,19 @@ Watch the project explanation video here:
 
 ## Prototype Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Home Page](/homepage.png)
 
-![Patient Admission](screenshots/admission.png)
+![Admin Dashboard](/admindashboard.png)
 
-![Ward Management](screenshots/ward.png)
+![Patient Admit form](/admitpatient.png)
+
+![Patient List](/patient_list.png)
+
+![doctor notification](/doctor_emergencyalertpage.png)
+
+![Ward Dashbaord](/ward_dashboard.png)
+
+![Hospital Overview](/insights_and_overview_of_hospital.png)
 
 ---
 
@@ -120,4 +131,4 @@ This prototype demonstrates how AI and cloud infrastructure can transform health
 
 ## Author
 
-Anu
+Anushka Dinesh Sarode(2nd year student)
