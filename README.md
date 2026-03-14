@@ -76,11 +76,13 @@ This system uses modern cloud technologies:
 
 ---
 
-## Demo Video
+## Demo Videos
 
-Watch the project explanation video here:
+### Watch Platform Demo
+[![Platform Demo](/See-the-prototype-here.png)](https://drive.google.com/file/d/18rDW5WJ55BS-OC8eGishfFRYY9ubtkjQ/view?usp=sharing)
 
-[Demo Video Link](PASTE_YOUR_VIDEO_LINK)
+### Watch AI Problem & Solution Explainer
+[![AI Explainer](/see-the-problem-and-solution-here.png)](https://drive.google.com/file/d/1b9AHXNynaNVa6j7cp4XXnUp5DHKcO7wG/view?usp=sharing)
 
 ---
 
