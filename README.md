@@ -96,7 +96,7 @@ Watch the project explanation video here:
 
 ![doctor notification](/doctor-emergency-alertpage.png)
 
-![Ward Dashbaord](/ward-dashboard.png)
+![Ward Dashbaord](/ward-dashbaord.png)
 
 ![Hospital Overview](/insights-and-overview-of-hospital.png)
 
