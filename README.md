@@ -79,8 +79,7 @@ This system uses modern cloud technologies:
 ## Demo Videos
 
 ### Click on this image to Watch Platform Demo
-[![Platform Demo](/See-the-prototype-here.png)](https://drive.google.com/file/d/1HjZwQsqe8AGA6kTCWFQ2g_iS-z9yPzGj/view?usp=sharing)
-
+[![Platform Demo](/See-the-prototype-here.png)](https://drive.google.com/file/d/15OqTD9S2-06pwOey4ux4DK2NNX1jTBy1/view?usp=sharing)
 
 
 ### Click on this image to Watch AI Problem & Solution Explainer
