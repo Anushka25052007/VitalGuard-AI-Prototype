@@ -90,15 +90,15 @@ Watch the project explanation video here:
 
 ![Admin Dashboard](/admindashboard.png)
 
-![Patient Admit form](/admitpatient.png)
+![Patient Admit form](/admit-patient.png)
 
-![Patient List](/patient_list.png)
+![Patient List](/patients-list.png)
 
-![doctor notification](/doctor_emergencyalertpage.png)
+![doctor notification](/doctor-emergency-alertpage.png)
 
-![Ward Dashbaord](/ward_dashboard.png)
+![Ward Dashbaord](/ward-dashboard.png)
 
-![Hospital Overview](/insights_and_overview_of_hospital.png)
+![Hospital Overview](/insights-and-overview-of-hospital.png)
 
 ---
 
