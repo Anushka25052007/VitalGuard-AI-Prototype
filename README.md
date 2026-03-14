@@ -72,7 +72,7 @@ This system uses modern cloud technologies:
 
 ## Architecture Diagram
 
-[Architecture Diagram](/systemArchitecture.png)
+![Architecture Diagram](/systemArchitecture.png)
 
 ---
 
