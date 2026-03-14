@@ -89,19 +89,27 @@ This system uses modern cloud technologies:
 ---
 
 ## Prototype Screenshots
+---
 
+### Home Page
 ![Home Page](/homepage.png)
 
+### Admin Dashbaord
 ![Admin Dashboard](/admindashboard.png)
 
+### Patient Admit Form
 ![Patient Admit form](/admit-patient.png)
 
+### Patients List
 ![Patient List](/patients-list.png)
 
+### Doctor Notification
 ![doctor notification](/doctor-emergency-alertpage.png)
 
+### Ward Dashbaord 
 ![Ward Dashbaord](/ward-dashbaord.png)
 
+### Hospital Overview
 ![Hospital Overview](/insights-and-overview-of-hospital.png)
 
 ---
