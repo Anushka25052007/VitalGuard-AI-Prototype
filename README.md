@@ -69,6 +69,19 @@ This system uses modern cloud technologies:
 - React for frontend dashboards
 
 ---
+###This project is currently a prototype and not deployed publicly.
+
+To test the application:
+1. Clone the GitHub repository.
+2. Install dependencies using: npm install
+3. Run the development server using: npm run dev
+4. Open the local development URL shown in the terminal(usually http://localhost:5173)
+
+The platform allows users to simulate hospital operations including patient admission, vitals tracking, and AI-generated summaries by Amazon Nova.
+
+For a full demonstraction of the workflow and features, please refer to the demo video included in the submission.
+
+---
 
 ## Architecture Diagram
 
@@ -81,8 +94,10 @@ This system uses modern cloud technologies:
 ### Click on this image to Watch Platform Demo
 [![Platform Demo](/See-the-prototype-here.png)](https://drive.google.com/file/d/15OqTD9S2-06pwOey4ux4DK2NNX1jTBy1/view?usp=sharing)
 
+---
 
 ### Click on this image to Watch AI Problem & Solution Explainer
+
 [![AI Explainer](/see-the-problem-and-solution-here.png)](https://drive.google.com/file/d/1b9AHXNynaNVa6j7cp4XXnUp5DHKcO7wG/view?usp=sharing)
 
 ---
