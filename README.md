@@ -79,7 +79,7 @@ To test the application:
 
 The platform allows users to simulate hospital operations including patient admission, vitals tracking, and AI-generated summaries by Amazon Nova.
 
-For a full demonstraction of the workflow and features, please refer to the demo video included in the submission.
+For a full demonstraction of the workflow and features, please refer to the demo video or also the problem solution explanation video for better understanding it is included below it.
 
 ---
 
