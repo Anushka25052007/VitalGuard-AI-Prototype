@@ -92,13 +92,13 @@ For a full demonstraction of the workflow and features, please refer to the demo
 ## Demo Videos
 
 ### Click on this image to Watch Platform Demo
-[![Platform Demo](/See-the-prototype-here.png)](https://drive.google.com/file/d/15OqTD9S2-06pwOey4ux4DK2NNX1jTBy1/view?usp=sharing)
+[![Platform Demo](/See-the-prototype-here.png)](https://youtu.be/m5sfBZ5mIfc)
 
 ---
 
 ### Click on this image to Watch AI Problem & Solution Explainer
 
-[![AI Explainer](/see-the-problem-and-solution-here.png)](https://drive.google.com/file/d/1b9AHXNynaNVa6j7cp4XXnUp5DHKcO7wG/view?usp=sharing)
+[![AI Explainer](/see-the-problem-and-solution-here.png)](https://youtu.be/Q0ANaZu0Eh4)
 
 ---
 
